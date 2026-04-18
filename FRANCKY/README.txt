@@ -1,4 +1,6 @@
 - Création de la classe Etudiant.
 - Calcul de la moyenne.
 - Gestion des données des étudiants.
+- Tri des étudiants par moyenne.
+- Affichage des résultats dans la console.
 
