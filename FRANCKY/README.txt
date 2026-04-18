@@ -3,4 +3,4 @@
 - Gestion des données des étudiants.
 - Tri des étudiants par moyenne.
 - Affichage des résultats dans la console.
-
+- Rédaction du README.md 
