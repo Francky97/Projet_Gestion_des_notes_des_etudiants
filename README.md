@@ -18,23 +18,23 @@ Il lit les données, calcule la moyenne de chaque étudiant, classe les étudian
 - `GestionNotes.java` : logique principale du traitement des notes.
 
 ## Format du fichier d’entrée
-Le fichier `etudiants.csv` doit contenir deux colonnes :
+Le fichier `etudiants.csv` doit contenir 6 colonnes :
 ```csv
-Nom,Note
-Ali,15
-Ali,13
-Sara,18
+id,nom,prenom,math,physique,info
+1,Dupont,Jean,8,8,11
+2,Simon,Paul,2,1,16
+3,Moreau,Thomas,19,6,13
+4,Martin,Lucas,6,1,19
+```
+
+## Compilation
+```bash
+javac *.java
 ```
 
 ## Exécution
-1. Placer le fichier `etudiants.csv` dans le dossier du projet.
-2. Compiler les fichiers Java :
 ```bash
-javac src/*.java
-```
-3. Exécuter le programme :
-```bash
-java -cp src Main
+java Main
 ```
 
 ## Résultat
