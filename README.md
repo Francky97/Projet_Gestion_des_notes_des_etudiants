@@ -38,7 +38,7 @@ java Main
 ```
 
 ## Résultat
-Le programme affiche les étudiants triés par moyenne dans la console et génère un fichier `resultats.csv`.
+Le programme affiche les étudiants triés par moyenne dans la console et génère un fichier `resultats_etudiants.csv`.
 
 ## Auteurs
 - FRANCKY MANFRED
